@@ -1,0 +1,22 @@
+Liczba podana: 2 dzielniki: 1, 2
+Liczba podana: 5 dzielniki: 1, 5
+Liczba podana: 1 dzielniki: 1
+Liczba podana: 4 dzielniki: 1, 2, 4
+Liczba podana: 2 dzielniki: 1, 2
+Liczba podana: 1 dzielniki: 1
+Liczba podana: 6 dzielniki: 1, 2, 3, 6
+Liczba podana: 6 dzielniki: 1, 2, 3, 6
+Liczba podana: 4 dzielniki: 1, 2, 4
+Liczba podana: 2 dzielniki: 1, 2
+Liczba podana: 12 dzielniki: 1, 2, 3, 4, 6, 12
+Liczba podana: 5486431 dzielniki: 1, 1061, 5171, 5486431
+Liczba podana: 32 dzielniki: 1, 2, 4, 8, 16, 32
+Liczba podana: 46 dzielniki: 1, 2, 23, 46
+Liczba podana: 34 dzielniki: 1, 2, 17, 34
+Liczba podana: 32 dzielniki: 1, 2, 4, 8, 16, 32
+Liczba podana: 6 dzielniki: 1, 2, 3, 6
+Liczba podana: 6 dzielniki: 1, 2, 3, 6
+Liczba podana: 4562383 dzielniki: 1, 7, 651769, 4562383
+Liczba podana: 6 dzielniki: 1, 2, 3, 6
+Liczba podana: 6 dzielniki: 1, 2, 3, 6
+Liczba podana: 1 dzielniki: 1
